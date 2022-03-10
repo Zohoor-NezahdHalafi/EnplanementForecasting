@@ -20,6 +20,8 @@ data <- data.frame(read.csv('data/{csv_name}.csv'))
 y <- ts(data$PASSENGERS,start=c({start_year},{start_month}),deltat=1/12)
 m <- seas(
     x = y,
+    transform.function = "none",
+    regression.aictest = NULL,
     forecast.save = "forecasts",
     pickmdl.method = "best",
     arima.model = "{order}",
