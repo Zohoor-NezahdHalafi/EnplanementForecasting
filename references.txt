@@ -1,2 +1,8 @@
 https://www.ibm.com/docs/en/spss-modeler/18.1.1?topic=series-outliers
 https://www2.census.gov/software/x-13arima-seats/x-13-data/documentation/docx13as.pdf
+
+Chang, I. and G. C. Tiao (1983). Estimation of time series parameters in the presence of outliers. Technical
+Report No. 8, Statistics Research Center, University of Chicago.
+
+Chang, I., G. C. Tiao, and C. Chen (1988). Estimation of time series parameters in the presence of outliers.
+Technometrics 30, 193–204.
