@@ -1,0 +1,19 @@
+AirPassengerForecaster
+|
++--- data
+|   +--- Houston Airports Passengers.csv
+|   +--- Houston Airports Passengers New.csv
+|
++--- pickled
+|   +--- series_map.pckl
+|
++--- README.md
++--- requirements.txt
++--- grids.py
++--- X13.py
++--- 00 - prepare_data.ipynb
++--- 01 - arima_orders.ipynb
++--- 02 - fcsts_orig_data.ipynb
++--- 03 - fcsts_ignore_covid_periods.ipynb
++--- 04 - fcsts_with_outlier_detection.ipynb
++--- 05 - model_evaluations_on_new_data.ipynb
