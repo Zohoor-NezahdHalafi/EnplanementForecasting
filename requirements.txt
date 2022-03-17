@@ -1,4 +1,4 @@
-scalecast>=0.6.7
+scalecast>=0.6.9
 rpy2>=3.4.0
 pmdarima==1.8.2
 tqdm
