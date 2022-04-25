@@ -1,9 +1,9 @@
 # Enplanement Forecasting
 
 ## Installation
-Runtime: Python 3.8+
-Install requirements `pip install -r requirments.txt`
-Postbuild: run commands in postbuild.txt on command line.
+- Runtime: Python 3.8+
+- Install requirements `pip install -r requirments.txt`
+- Postbuild: run commands in postbuild.txt on command line.
 
 ## How to Run
 Config parameters in config.py:  
